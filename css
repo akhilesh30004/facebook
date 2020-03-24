@@ -1,0 +1,21 @@
+.navbar-toggler-icon{
+	background-image:(url:download.png)
+}
+body{
+	background-color: #f53b57;
+	font-family: roboto;
+}
+.container-fluid{
+	padding:3% 15%;
+}
+.nav-link{
+	color: white
+}
+.brandname{
+	color: white;
+	font-size: 40px;
+	position: absolute;
+    top: 0px;
+    left: 0;
+    font-family: Algerian Regular;
+}
